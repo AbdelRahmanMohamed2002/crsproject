@@ -18,7 +18,7 @@ return "0";
     {
 
     }
-    public void RemoCar()
+    public void RemoveCar()
     {
 
     }
